@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/bin/Debug/net8.0/method-overriding
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/bin/Debug/net8.0/method-overriding.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/bin/Debug/net8.0/method-overriding.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/bin/Debug/net8.0/method-overriding.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/bin/Debug/net8.0/method-overriding.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/refint/method-overriding.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/method-overriding.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/polymorphism/method-overriding/obj/Debug/net8.0/ref/method-overriding.dll

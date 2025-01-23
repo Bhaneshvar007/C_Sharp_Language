@@ -1,0 +1,137 @@
+Polymorphism is one of the core concepts of Object-Oriented Programming (OOP) that allows objects to be treated as instances of their parent class, even if they are instances of derived classes. It enables a single method or function to behave differently depending on the object that invokes it.
+
+There are two types of polymorphism:
+
+Compile-time Polymorphism (Static Binding or Method Overloading)
+Runtime Polymorphism (Dynamic Binding or Method Overriding)
+
+
+
+Key Points:
+Method Overloading: Achieved by defining multiple methods with the same name but different parameter types or counts. The method to be invoked is determined at compile-time.
+
+Method Overriding: The method in the derived class overrides the method in the base class, and the version of the method that gets called depends on the runtime type of the object.
+
+
+
+
+
+Example of Method Overloading (Compile-time Polymorphism):
+In this example, the Add method is overloaded with different parameter signatures.
+using System;
+
+class Calculator
+{
+    // Method to add two integers
+    public int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    // Method to add three integers
+    public int Add(int a, int b, int c)
+    {
+        return a + b + c;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Calculator calc = new Calculator();
+        
+        Console.WriteLine("Sum of 2 numbers: " + calc.Add(5, 10));      // Calls the Add(int, int)
+        Console.WriteLine("Sum of 3 numbers: " + calc.Add(5, 10, 15));  // Calls the Add(int, int, int)
+    }
+}
+
+
+
+
+
+Example of Method Overriding (Runtime Polymorphism):
+Here, the base class Animal has a Sound method, which is overridden in the derived class Dog. The type of object (not the reference type) determines which version of the method is called.
+
+using System;
+
+class Animal
+{
+    // Virtual method in base class
+    public virtual void Sound()
+    {
+        Console.WriteLine("Animal makes a sound");
+    }
+}
+
+class Dog : Animal
+{
+    // Overriding the base class method
+    public override void Sound()
+    {
+        Console.WriteLine("Dog barks");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Animal myAnimal = new Animal();  // Reference of type Animal
+        Animal myDog = new Dog();         // Reference of type Animal, but object of Dog class
+
+        myAnimal.Sound();  // Calls the Animal class method
+        myDog.Sound();     // Calls the Dog class method (overridden)
+    }
+}
+
+
+
+
+Most importaent things
+agr ham base class me methode ko noramlly bana rhe hia to derive class ki jo bhi methods hi wo use override nhi kar sakti hai 
+
+agr ham chahte hia ki wo override kare to eske liye hame base class ki method ko virtual and derive class ko method ko override method banana padega ,,,
+jaise ki es program me banaya gaya hai jis method ko override banaya gya hai wah base method ko override kar rhi hia baki jo method instance method(not a override method) wo base class ki method ko override nhi kar rhi hia 
+using System;
+
+namespace MyApplication
+{
+  class Animal  // Base class (parent) 
+  {
+    public virtual void animalSound()
+    {
+      Console.WriteLine("The animal makes a sound");
+    }
+  }
+
+  class Pig : Animal  // Derived class (child) 
+  {
+    public override void animalSound()   ---------------------------> override method
+    {
+      Console.WriteLine("The pig says: wee wee");
+    }
+  }
+
+  class Dog : Animal  // Derived class (child) 
+  {
+    public void animalSound()
+    {
+      Console.WriteLine("The dog says: bow wow");
+    }
+  }
+
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Animal myAnimal = new Animal();  // Create a Animal object
+      Animal myPig = new Pig();  // Create a Pig object
+      Animal myDog = new Dog();  // Create a Dog object
+      
+      myAnimal.animalSound();
+      myPig.animalSound();
+      myDog.animalSound();
+    }
+  }
+}

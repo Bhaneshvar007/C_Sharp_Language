@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/bin/Debug/net8.0/myProj
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/bin/Debug/net8.0/myProj.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/bin/Debug/net8.0/myProj.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/bin/Debug/net8.0/myProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/bin/Debug/net8.0/myProj.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/refint/myProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/myProj.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/myProj/obj/Debug/net8.0/ref/myProj.dll

@@ -1,0 +1,77 @@
+/*
+
+Inheritance is one of the core principles of Object-Oriented Programming (OOP). It allows a class (called the child class or derived class) to acquire the properties and methods of another class (called the parent class or base class).
+
+
+=> Parent Class (Base Class/Superclass): वह class जिसमें properties और methods पहले से define होती हैं।
+=> Child Class (Derived Class/Subclass): वह class जो Parent class से properties और methods को inherit करती है।
+
+
+#. Key Points to Remember:
+1. Inheritance allows code reuse.
+2. Derived class can add its own properties/methods.
+3. A derived class can override parent class methods using the override keyword.
+4. Use base keyword to access parent class members inside the child class.
+
+Syntex
+----------------------------------------------------------------------------------------
+
+class ParentClass // Base Class
+{
+    // Parent class properties and methods
+}
+
+class ChildClass : ParentClass // Derived Class inheriting from ParentClass
+{
+    // Additional properties and methods of ChildClass
+}
+
+
+
+
+Types of Inheritance in C#
+
+Single Inheritance: One child class inherits from one parent class.
+class A { }
+class B : A { }
+
+----------------------------------------------------------------------------------------
+
+
+Multilevel Inheritance: A class inherits from another class, which itself inherits from another class.
+class A { }
+class B : A { }
+class C : B { }
+
+
+----------------------------------------------------------------------------------------
+
+
+Hierarchical Inheritance: Multiple child classes inherit from a single parent class. 
+class A { }
+class B : A { }
+class C : A { }
+
+
+----------------------------------------------------------------------------------------
+
+
+Multiple Inheritance: Not directly supported in C#. This is achieved through interfaces.
+
+
+
+====>  How to identify which one is base class and which one is derived class
+####   Key Points to Identify Base and Derived Classes:
+
+-> Base Class:
+  1. The base class is the class that is being inherited from.
+  2. It does not use the : symbol in its definition.
+  3. It is typically the parent class in the inheritance chain.
+
+
+-> Derived Class:
+  1. The derived class is the class that inherits from the base class.
+  2. It uses the : symbol followed by the base class name to indicate inheritance.
+
+
+*/

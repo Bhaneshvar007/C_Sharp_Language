@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/bin/Debug/net8.0/abstraction
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/bin/Debug/net8.0/abstraction.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/bin/Debug/net8.0/abstraction.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/bin/Debug/net8.0/abstraction.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/bin/Debug/net8.0/abstraction.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/refint/abstraction.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/abstraction.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/abstraction/obj/Debug/net8.0/ref/abstraction.dll

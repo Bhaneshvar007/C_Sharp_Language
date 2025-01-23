@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/bin/Debug/net8.0/inheritanceProj
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/bin/Debug/net8.0/inheritanceProj.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/bin/Debug/net8.0/inheritanceProj.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/bin/Debug/net8.0/inheritanceProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/bin/Debug/net8.0/inheritanceProj.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/refint/inheritanceProj.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/inheritanceProj.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/inheritanceProj/obj/Debug/net8.0/ref/inheritanceProj.dll

@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/bin/Debug/net8.0/method-and-string
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/bin/Debug/net8.0/method-and-string.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/bin/Debug/net8.0/method-and-string.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/bin/Debug/net8.0/method-and-string.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/bin/Debug/net8.0/method-and-string.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/refint/method-and-string.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/method-and-string.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/method-and-string/obj/Debug/net8.0/ref/method-and-string.dll

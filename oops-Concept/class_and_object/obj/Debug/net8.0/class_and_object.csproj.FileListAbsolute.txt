@@ -1,0 +1,14 @@
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.AssemblyInfoInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.AssemblyInfo.cs
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.csproj.CoreCompileInputs.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/bin/Debug/net8.0/class_and_object
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/bin/Debug/net8.0/class_and_object.deps.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/bin/Debug/net8.0/class_and_object.runtimeconfig.json
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/bin/Debug/net8.0/class_and_object.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/bin/Debug/net8.0/class_and_object.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/refint/class_and_object.dll
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.pdb
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/class_and_object.genruntimeconfig.cache
+/home/bhaneshvarkshirsagar/Desktop/C_Sharp_Tute/oops-Concept/class_and_object/obj/Debug/net8.0/ref/class_and_object.dll
